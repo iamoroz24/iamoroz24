@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-i'm Oroz              
-Middle Golang Developer          
-💬Connect: @mtraher932gmail.com
+i'm Oroz, Middle Golang/C Developer         
+
+💬 connect: @mtraher932gmail.com
 --------------------------------------------
 ### 🛠️ My Stack:
 
