@@ -6,7 +6,7 @@ i'm Oroz, Middle Golang/C Developer
 --------------------------------------------
 ### 🛠️ My Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,git,docker,postgres,mysql,postman,ci/cd,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,c,git,docker,postgres,mysql,postman,kafka,redis,rabbitmq)](https://skillicons.dev)
 
 
 
